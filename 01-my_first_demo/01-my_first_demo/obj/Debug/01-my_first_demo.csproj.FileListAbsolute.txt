@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\bin\Debug\01-my_first_demo.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\bin\Debug\01-my_first_demo.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\bin\Debug\01-my_first_demo.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\obj\Debug\01-my_first_demo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\obj\Debug\01-my_first_demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\obj\Debug\01-my_first_demo.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\01-my_first_demo\obj\Debug\01-my_first_demo.pdb

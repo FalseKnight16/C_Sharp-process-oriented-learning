@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\bin\Debug\找水仙花数.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\bin\Debug\找水仙花数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\bin\Debug\找水仙花数.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\obj\Debug\找水仙花数.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\obj\Debug\找水仙花数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\obj\Debug\找水仙花数.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\找水仙花数\obj\Debug\找水仙花数.csprojAssemblyReference.cache

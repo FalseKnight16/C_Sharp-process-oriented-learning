@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\bin\Debug\循环的习题.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\bin\Debug\循环的习题.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\bin\Debug\循环的习题.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\obj\Debug\循环的习题.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\obj\Debug\循环的习题.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\obj\Debug\循环的习题.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\循环的习题\obj\Debug\循环的习题.pdb

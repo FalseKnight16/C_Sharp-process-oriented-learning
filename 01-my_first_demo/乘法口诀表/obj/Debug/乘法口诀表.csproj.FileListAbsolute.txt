@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\bin\Debug\乘法口诀表.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\bin\Debug\乘法口诀表.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\bin\Debug\乘法口诀表.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\obj\Debug\乘法口诀表.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\obj\Debug\乘法口诀表.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\乘法口诀表\obj\Debug\乘法口诀表.pdb

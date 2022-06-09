@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\obj\Debug\params可变参数.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\bin\Debug\params可变参数.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\bin\Debug\params可变参数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\bin\Debug\params可变参数.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\obj\Debug\params可变参数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\params可变参数\obj\Debug\params可变参数.pdb

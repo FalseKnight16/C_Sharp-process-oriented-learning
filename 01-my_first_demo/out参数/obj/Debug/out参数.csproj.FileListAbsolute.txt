@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\bin\Debug\out参数.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\bin\Debug\out参数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\bin\Debug\out参数.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\obj\Debug\out参数.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\obj\Debug\out参数.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\obj\Debug\out参数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\out参数\obj\Debug\out参数.pdb

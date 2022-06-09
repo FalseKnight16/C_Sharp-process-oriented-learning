@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\bin\Debug\my_second_demo.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\bin\Debug\my_second_demo.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\bin\Debug\my_second_demo.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\obj\Debug\my_second_demo.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\obj\Debug\my_second_demo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\obj\Debug\my_second_demo.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\my_second_demo\obj\Debug\my_second_demo.pdb

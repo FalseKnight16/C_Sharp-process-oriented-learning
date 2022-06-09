@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\bin\Debug\三元表达式.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\bin\Debug\三元表达式.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\bin\Debug\三元表达式.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\obj\Debug\三元表达式.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\obj\Debug\三元表达式.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\obj\Debug\三元表达式.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\三元表达式\obj\Debug\三元表达式.csprojAssemblyReference.cache

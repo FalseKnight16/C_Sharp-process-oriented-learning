@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\obj\Debug\冒泡排序.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\bin\Debug\冒泡排序.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\bin\Debug\冒泡排序.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\bin\Debug\冒泡排序.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\obj\Debug\冒泡排序.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\冒泡排序\obj\Debug\冒泡排序.pdb

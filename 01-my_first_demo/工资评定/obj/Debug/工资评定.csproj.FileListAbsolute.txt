@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\bin\Debug\工资评定.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\bin\Debug\工资评定.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\bin\Debug\工资评定.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\obj\Debug\工资评定.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\obj\Debug\工资评定.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\obj\Debug\工资评定.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\工资评定\obj\Debug\工资评定.pdb

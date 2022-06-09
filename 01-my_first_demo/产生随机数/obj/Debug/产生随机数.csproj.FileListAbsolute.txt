@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\bin\Debug\产生随机数.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\bin\Debug\产生随机数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\bin\Debug\产生随机数.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\obj\Debug\产生随机数.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\obj\Debug\产生随机数.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\产生随机数\obj\Debug\产生随机数.pdb

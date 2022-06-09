@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\bin\Debug\do-while判断唱歌.exe.config
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\bin\Debug\do-while判断唱歌.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\bin\Debug\do-while判断唱歌.pdb
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\obj\Debug\do-while判断唱歌.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\obj\Debug\do-while判断唱歌.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\obj\Debug\do-while判断唱歌.exe
+C:\Users\Administrator\source\repos\01-my_first_demo\do-while判断唱歌\obj\Debug\do-while判断唱歌.pdb
